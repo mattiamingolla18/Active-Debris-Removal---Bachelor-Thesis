@@ -1,0 +1,5 @@
+﻿metodo;rateo_rad_s;rateo_gradi_giorno
+Propagazione DOP853;1,650221e-06;8,1692
+Quadratura esatta;1,650221e-06;8,1692
+1,5 n J2 (R/p)^2 = d(omega + Omega)/dt;1,65022e-06;8,1692
+3 n J2 (R/p)^2 = d(omega)/dt (piano di chiusura);3,300441e-06;16,3384

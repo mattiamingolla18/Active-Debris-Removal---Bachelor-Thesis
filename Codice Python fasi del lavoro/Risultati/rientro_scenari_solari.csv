@@ -1,0 +1,59 @@
+﻿gruppo;caso;scenario;B_C_kg_m2;valore_tabella;valore_completo;unita
+sistema;chaser 50 kg secco;bassa;31,415;27,787;28,562;giorni
+sistema;chaser 100 kg secco;bassa;33,275;29,431;30,212;giorni
+sistema;chaser 150 kg secco;bassa;35,284;31,206;31,987;giorni
+sistema;chaser 200 kg secco;bassa;37,293;32,98;33,756;giorni
+sistema;chaser 250 kg secco;bassa;39,258;34,721;35,481;giorni
+sistema_area;A target 2 m2;bassa;55,447;49,03;49,29;giorni
+solo_target;A target 2 m2;bassa;62,5;55,265;55,088;giorni
+naturale;A target 2 m2;bassa;62,5;91,48;;anni
+solo_target;A target 4 m2;bassa;31,25;27,637;28,413;giorni
+naturale;A target 4 m2;bassa;31,25;45,74;;anni
+sistema_area;A target 6 m2;bassa;25,875;22,89;23,599;giorni
+solo_target;A target 6 m2;bassa;20,833;18,431;19,044;giorni
+naturale;A target 6 m2;bassa;20,833;30,493;;anni
+sistema;chaser 50 kg secco;moderata;31,415;13,824;14,262;giorni
+sistema;chaser 100 kg secco;moderata;33,275;14,642;15,106;giorni
+sistema;chaser 150 kg secco;moderata;35,284;15,525;16,026;giorni
+sistema;chaser 200 kg secco;moderata;37,293;16,408;16,94;giorni
+sistema;chaser 250 kg secco;moderata;39,258;17,276;17,839;giorni
+sistema_area;A target 2 m2;moderata;55,447;24,391;25,206;giorni
+solo_target;A target 2 m2;moderata;62,5;27,488;28,398;giorni
+naturale;A target 2 m2;moderata;62,5;8,12;;anni
+solo_target;A target 4 m2;moderata;31,25;13,755;14,188;giorni
+naturale;A target 4 m2;moderata;31,25;4,06;;anni
+sistema_area;A target 6 m2;moderata;25,875;11,387;11,739;giorni
+solo_target;A target 6 m2;moderata;20,833;9,172;9,44;giorni
+naturale;A target 6 m2;moderata;20,833;2,707;;anni
+sistema;chaser 50 kg secco;alta;31,415;7,753;7,896;giorni
+sistema;chaser 100 kg secco;alta;33,275;8,211;8,357;giorni
+sistema;chaser 150 kg secco;alta;35,284;8,707;8,866;giorni
+sistema;chaser 200 kg secco;alta;37,293;9,199;9,376;giorni
+sistema;chaser 250 kg secco;alta;39,258;9,676;9,871;giorni
+sistema_area;A target 2 m2;alta;55,447;13,668;13,985;giorni
+solo_target;A target 2 m2;alta;62,5;15,399;15,774;giorni
+naturale;A target 2 m2;alta;62,5;1,788;;anni
+solo_target;A target 4 m2;alta;31,25;7,711;7,847;giorni
+naturale;A target 4 m2;alta;31,25;0,894;;anni
+sistema_area;A target 6 m2;alta;25,875;6,388;6,5;giorni
+solo_target;A target 6 m2;alta;20,833;5,14;5,227;giorni
+naturale;A target 6 m2;alta;20,833;0,596;;anni
+piano;sistema;piano_bassa;35,284;27,704;;giorni
+piano;solo target;piano_bassa;31,25;24,538;;giorni
+piano;naturale;piano_bassa;31,25;31,614;;anni
+piano;sistema;piano_media;35,284;14,679;;giorni
+piano;solo target;piano_media;31,25;13,002;;giorni
+piano;naturale;piano_media;31,25;3,402;;anni
+piano;sistema;piano_alta;35,284;9,654;;giorni
+piano;solo target;piano_alta;31,25;8,543;;giorni
+piano;naturale;piano_alta;31,25;1,122;;anni
+vela;25 anni;bassa;;3,318;;m2
+vela;5 anni;bassa;;32,592;;m2
+vela;come ADR;bassa;;2085,139;;m2
+vela;25 anni;moderata;;0,0;;m2
+vela;5 anni;moderata;;0,0;;m2
+vela;come ADR;moderata;;366,125;;m2
+vela;25 anni;alta;;0,0;;m2
+vela;5 anni;alta;;0,0;;m2
+vela;come ADR;alta;;143,316;;m2
+verifica;naturale numerico;alta;31,25;326,508;;giorni

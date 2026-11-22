@@ -1,0 +1,31 @@
+﻿atmosfera;caso;scenario;stato_iniziale;B_C_kg_m2;rientro_giorni;differenza_percentuale
+tabella;chaser 150 kg;bassa;senza J2;35,28;31,206;0,0
+tabella;chaser 150 kg;bassa;J2 su stato kepleriano (artefatto);35,28;16,244;-47,95
+tabella;chaser 150 kg;bassa;J2, target circolare, stesso dV3;35,28;30,352;-2,74
+tabella;chaser 150 kg;bassa;J2, perigeo a 200 km;35,28;31,089;-0,37
+tabella;chaser 150 kg;moderata;senza J2;35,28;15,525;0,0
+tabella;chaser 150 kg;moderata;J2 su stato kepleriano (artefatto);35,28;9,407;-39,41
+tabella;chaser 150 kg;moderata;J2, target circolare, stesso dV3;35,28;15,193;-2,14
+tabella;chaser 150 kg;moderata;J2, perigeo a 200 km;35,28;15,468;-0,37
+tabella;chaser 150 kg;alta;senza J2;35,28;8,707;0,0
+tabella;chaser 150 kg;alta;J2 su stato kepleriano (artefatto);35,28;5,768;-33,75
+tabella;chaser 150 kg;alta;J2, target circolare, stesso dV3;35,28;8,541;-1,9
+tabella;chaser 150 kg;alta;J2, perigeo a 200 km;35,28;8,667;-0,46
+tabella;chaser 100 kg;bassa;senza J2;33,27;29,431;0,0
+tabella;chaser 100 kg;bassa;J2, perigeo a 200 km;33,27;29,319;-0,38
+tabella;chaser 100 kg;moderata;senza J2;33,27;14,642;0,0
+tabella;chaser 100 kg;moderata;J2, perigeo a 200 km;33,27;14,588;-0,37
+tabella;chaser 100 kg;alta;senza J2;33,27;8,211;0,0
+tabella;chaser 100 kg;alta;J2, perigeo a 200 km;33,27;8,172;-0,47
+tabella;chaser 200 kg;bassa;senza J2;37,29;32,98;0,0
+tabella;chaser 200 kg;bassa;J2, perigeo a 200 km;37,29;32,858;-0,37
+tabella;chaser 200 kg;moderata;senza J2;37,29;16,408;0,0
+tabella;chaser 200 kg;moderata;J2, perigeo a 200 km;37,29;16,349;-0,36
+tabella;chaser 200 kg;alta;senza J2;37,29;9,199;0,0
+tabella;chaser 200 kg;alta;J2, perigeo a 200 km;37,29;9,164;-0,38
+tempo locale;chaser 150 kg;bassa;senza J2;35,28;31,987;0,0
+tempo locale;chaser 150 kg;bassa;J2, perigeo a 200 km;35,28;32,59;1,89
+tempo locale;chaser 150 kg;moderata;senza J2;35,28;16,026;0,0
+tempo locale;chaser 150 kg;moderata;J2, perigeo a 200 km;35,28;16,036;0,06
+tempo locale;chaser 150 kg;alta;senza J2;35,28;8,866;0,0
+tempo locale;chaser 150 kg;alta;J2, perigeo a 200 km;35,28;8,775;-1,03

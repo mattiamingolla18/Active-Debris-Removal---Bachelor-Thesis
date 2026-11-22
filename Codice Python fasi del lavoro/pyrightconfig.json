@@ -1,0 +1,13 @@
+{
+    // Configurazione per l'editor (VS Code/Pylance), non per Python.
+    // Gli script aggiungono queste cartelle a sys.path durante l'esecuzione (Comuni/percorsi.py),
+    // ma l'editor analizza il codice senza eseguirlo: senza questa lista segnala
+    // 'Import "percorsi" could not be resolved' anche se il codice funziona.
+    // La lista deve coincidere con CARTELLE_MODULI in Comuni/percorsi.py.
+    "extraPaths": ["Comuni", "3_phasing", "4_deorbiting", "5_rientro", "7_validazione_freeflyer"],
+    // Ambiente virtuale del progetto: cosi' l'editor trova numpy, scipy, matplotlib e pymsis
+    "venvPath": ".",
+    "venv": ".venv",
+    // Stesso livello di controllo predefinito di Pylance
+    "typeCheckingMode": "off"
+}

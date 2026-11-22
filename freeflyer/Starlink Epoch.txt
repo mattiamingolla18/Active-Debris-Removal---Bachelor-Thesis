@@ -1,4 +1,0 @@
-
-   Starlink.Epoch
-         day
-    28870.7546293

@@ -1,0 +1,5 @@
+﻿manovra;dV_m_s;propellente_kg;massa_dopo_kg
+dV1 phasing (400 km);41,85;2,42;168,91
+dV2 rendez-vous (550 km);41,62;2,37;166,53
+dV3 deorbiting (550 km);98,92;14,59;426,94
+Totale missione;182,39;19,39;

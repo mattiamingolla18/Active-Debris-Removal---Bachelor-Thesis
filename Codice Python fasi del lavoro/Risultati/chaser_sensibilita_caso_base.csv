@@ -1,0 +1,8 @@
+﻿variante;m_lancio_kg;propellente_caricato_kg;A_chaser_m2;B_C_kg_m2;rientro_giorni
+Caso base;171,32;21,32;1,5;35,28;15,53
+A target = 2 m2;171,32;21,32;1,5;55,45;24,39
+A target = 6 m2;171,32;21,32;1,5;25,88;11,39
+Densita' chaser 200 kg/m3;171,32;21,32;1,24;37,05;16,3
+Densita' chaser 400 kg/m3;171,32;21,32;0,78;40,6;17,86
+Target 290 kg;171,91;21,91;1,5;36,53;16,08
+Senza riserva;169,26;19,26;1,5;35,12;15,46

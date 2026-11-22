@@ -1,0 +1,6 @@
+﻿piano;wait_s;TOF_s;dV1_m_s;dV2_m_s;arco_gradi;errore_radiale_km;errore_lungo_traccia_km;distanza_km;dV_relativa_m_s
+A. Kepleriano, modello senza J2 (controllo);20100,25;2823,03;41,848;41,619;180,0;0,0;0,0;0,0;0,0
+B. Kepleriano, modello con J2;20100,25;2823,03;41,848;41,619;180,0;0,319;8,502;8,508;9,125
+C. Solo wait time con J2 (piano di chiusura);20125,42;2823,03;41,848;41,619;180,0;0,308;14,884;14,887;16,116
+D. Piano completo con J2;20064,07;2825,01;41,759;41,532;180,253;0,0;0,0;0,0;0,0
+E. Kepleriano, J2 acceso sulle velocita' kepleriane;20100,25;2823,03;41,848;41,619;180,0;-2,737;21,472;21,646;31,577

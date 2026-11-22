@@ -1,0 +1,44 @@
+FreeFlyer(tm) Maneuver Summary File
+-----------------------------------
+
+Maneuver for spacecraft Chaser
+
+Impulsive maneuver epoch:
+   Modified Julian: 28849.8000379424
+   Calendar:        Jan 01 2020 07:12:03.278
+
+Premaneuver Cartesian State:
+     X     -4347.24100450970 km
+     Y     -5394.48983263004 km
+     Z  6.13523010454011e-08 km
+    VX      5.90602185370992 km/s
+    VY     -4.75946526545656 km/s
+    VZ  -1.08739544345932e-10 km/s
+
+  mass      683.814862605627 kg
+
+
+Postmaneuver Cartesian State:
+     X     -4347.24100450970 km
+     Y     -5394.48983263004 km
+     Z  6.13523010454011e-08 km
+    VX      5.82899559949069 km/s
+    VY     -4.69739238618769 km/s
+    VZ  -1.07321364732998e-10 km/s
+
+  mass      661.211442871201 kg
+
+
+Net ICRF delta-V:
+   dVX        -77.0262542192297 m/s
+   dVY         62.0728792688707 m/s
+   dVZ     1.41817961293380e-09 m/s
+
+   Magnitude: 98.9246490000000 m/s
+
+
+Fuel Accounting:
+   Starting mass:      683.814862605627 kg
+        End mass:      661.211442871201 kg
+       Mass used:      22.6034197344259 kg
+

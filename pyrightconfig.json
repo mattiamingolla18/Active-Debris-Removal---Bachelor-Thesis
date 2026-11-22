@@ -1,0 +1,14 @@
+{
+    // Stessa configurazione di "Codice Python fasi del lavoro/pyrightconfig.json", per quando
+    // in VS Code apri la cartella principale del repository invece di quella del codice.
+    "extraPaths": [
+        "Codice Python fasi del lavoro/Comuni",
+        "Codice Python fasi del lavoro/3_phasing",
+        "Codice Python fasi del lavoro/4_deorbiting",
+        "Codice Python fasi del lavoro/5_rientro",
+        "Codice Python fasi del lavoro/7_validazione_freeflyer"
+    ],
+    "venvPath": "Codice Python fasi del lavoro",
+    "venv": ".venv",
+    "typeCheckingMode": "off"
+}

@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Fonti bibliografiche e presentazioni: restano fuori dal repository
+Fonti bibliografiche/
+*.pptx

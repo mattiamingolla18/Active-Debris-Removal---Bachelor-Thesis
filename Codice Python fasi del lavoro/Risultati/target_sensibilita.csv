@@ -1,0 +1,6 @@
+﻿caso;massa_kg;area_m2;B_C_kg_m2;rientro_naturale_anni;solo_target_ellisse_giorni;area_totale_5_anni_m2;vela_5_anni_m2;area_pari_ADR_m2;entro_25_anni
+A = 2 m2;275,0;2,0;62,5;8,12;27,49;3,25;1,25;382,0;si
+A = 4 m2 (riferimento);275,0;4,0;31,25;4,06;13,75;3,25;0,0;382,0;si
+A = 6 m2;275,0;6,0;20,83;2,71;9,17;3,25;0,0;382,0;si
+Massa 290 kg (v1.5 recenti);290,0;4,0;32,95;4,28;14,51;3,43;0,0;403,0;si
+Rotazione libera, pannello integro;275,0;12,6;9,92;1,29;4,38;3,25;0,0;382,0;si
